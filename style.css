@@ -1,2 +1,10 @@
-  h1 {color:Pink;}
-  p {color:Black;}
+body {
+background-color: #000000;
+}
+
+  h1 {
+    color: Pink;
+  }
+  p {
+    color: white;
+  }
